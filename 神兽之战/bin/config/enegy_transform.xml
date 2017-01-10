@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <MoneyToHeroExp value="1" comment="单位游戏币转换为英雄经验的系数" />
+  <TicketToHeroExp value="1" comment="单位点券转换为英雄经验的系数" />
+  <MoneyToEquipExp value="1" comment="单位游戏币转换为装备经验的系数" />
+  <TicketToEquipExp value="1" comment="单位点券转换为装备经验的系数" />
+</config>

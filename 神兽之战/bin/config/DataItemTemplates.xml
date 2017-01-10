@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <DataItemTemplates>
+    <ID_i>1100</ID_i>
+    <FileName_s>Data/Model/Weapons/LongSword/longsword_010lv_01_o01</FileName_s>
+    <FilePart_s>longsword_010lv_01_o01</FilePart_s>
+    <AnchorNodeName_s>dummy_right_weapon_at</AnchorNodeName_s>
+  </DataItemTemplates>
+  <DataItemTemplates>
+    <ID_i>1101</ID_i>
+    <FileName_s>Data/Model/Weapons/HeavyShield/heavyshield_050lv_01_o01</FileName_s>
+    <FilePart_s>heavyshield_050lv_01_o01</FilePart_s>
+    <AnchorNodeName_s>dummy_left_shield_at</AnchorNodeName_s>
+  </DataItemTemplates>
+  <DataItemTemplates>
+    <ID_i>1102</ID_i>
+    <FileName_s>Data/Model/HeroModel/heavy_050lv_hero</FileName_s>
+    <FilePart_s>face</FilePart_s>
+    <AnchorNodeName_s>dummy_right_weapon_at</AnchorNodeName_s>
+  </DataItemTemplates>
+<DataItemTemplates>
+    <ID_i>1103</ID_i>
+    <FileName_s>Data/Model/HeroModel/heavy_050lv_hero</FileName_s>
+    <FilePart_s>upper</FilePart_s>
+    <AnchorNodeName_s>dummy_right_weapon_at</AnchorNodeName_s>
+  </DataItemTemplates>
+<DataItemTemplates>
+    <ID_i>1104</ID_i>
+    <FileName_s>Data/Model/HeroModel/heavy_050lv_hero</FileName_s>
+    <FilePart_s>hands</FilePart_s>
+    <AnchorNodeName_s>dummy_right_weapon_at</AnchorNodeName_s>
+  </DataItemTemplates>
+<DataItemTemplates>
+    <ID_i>1105</ID_i>
+    <FileName_s>Data/Model/HeroModel/heavy_050lv_hero</FileName_s>
+    <FilePart_s>lower</FilePart_s>
+    <AnchorNodeName_s>dummy_right_weapon_at</AnchorNodeName_s>
+  </DataItemTemplates>
+<DataItemTemplates>
+    <ID_i>1106</ID_i>
+    <FileName_s>Data/Model/HeroModel/heavy_050lv_hero</FileName_s>
+    <FilePart_s>upperback</FilePart_s>
+    <AnchorNodeName_s>dummy_right_weapon_at</AnchorNodeName_s>
+  </DataItemTemplates>
+</root>

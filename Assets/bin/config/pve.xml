@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--  Pve系统 全局配置  -->
+<config>
+  <setting name="RefreshPveBuff_CostItemID" value="31" comment="刷新pvebuff道具ID, 数量默认为1" />
+  <setting name="RefreshPveBuff_CostTicket" value="15;25;35;50" comment="刷新pvebuff花费符石, 按次数依次配置" />
+  <setting name="GuYongWenZhangItemID" value="36" comment="雇佣纹章" />
+  <setting name="ShenShengJiShiItemID" value="37" comment="神圣基石" />
+  <setting name="ShiKongNiLiuItemID" value="38" comment="时空逆流" />
+</config>

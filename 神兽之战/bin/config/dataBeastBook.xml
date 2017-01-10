@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <booklist>
+    <ID_i>0</ID_i>
+    <Page_i>1</Page_i>
+    <BeastId_i>0</BeastId_i>
+    <StoryId_i>0</StoryId_i>
+  </booklist>
+  <booklist>
+    <ID_i>1</ID_i>
+    <Page_i>2</Page_i>
+    <BeastId_i>1</BeastId_i>
+    <StoryId_i>1</StoryId_i>
+  </booklist>
+  <booklist>
+    <ID_i>2</ID_i>
+    <Page_i>3</Page_i>
+    <BeastId_i>2</BeastId_i>
+    <StoryId_i>2</StoryId_i>
+  </booklist>
+  <booklist>
+    <ID_i>3</ID_i>
+    <Page_i>4</Page_i>
+    <BeastId_i>3</BeastId_i>
+    <StoryId_i>3</StoryId_i>
+  </booklist>
+  <booklist>
+    <ID_i>4</ID_i>
+    <Page_i>5</Page_i>
+    <BeastId_i>4</BeastId_i>
+    <StoryId_i>4</StoryId_i>
+  </booklist>
+  <booklist>
+    <ID_i>5</ID_i>
+    <Page_i>6</Page_i>
+    <BeastId_i>5</BeastId_i>
+    <StoryId_i>5</StoryId_i>
+  </booklist>
+</root>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+  <Type>1</Type>
+  <PayUrl>http://passport.kongzhong.com/billing/pay/gameinchar/pay_lybns</PayUrl>
+  <RegisterUrl>http://www.lybns.com/index.php/member/register.html</RegisterUrl>
+  <ForgetUrl>http://passport.kongzhong.com/pwdback/pwdemailback/pwdback_email</ForgetUrl>
+  <AnnounceUrl>http://ly.kongzhong.com/json/announce.xml</AnnounceUrl>
+  <!--http://localhost/BeastGame/Announce/announce.xml-->
+</Root>

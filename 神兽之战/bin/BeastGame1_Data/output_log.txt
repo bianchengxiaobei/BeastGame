@@ -1,0 +1,28 @@
+Initialize engine version: 4.7.0f1 (9c73fd3cda99)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     2100 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\LitJson.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame1_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.414 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

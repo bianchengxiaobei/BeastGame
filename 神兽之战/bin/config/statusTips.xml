@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <item name="Status_Physic Immune" tip="[28d6d0]物理防御[-]\n类型：特殊状态\n受到物理伤害时，抵消1点物理伤害\n※持续至回合开始" />
+  <item name="Status_Unmovable" tip="[28d6d0]禁足[-]\n类型：特殊状态\n移动力恒定为0\n※持续至回合结束" />
+  <item name="Status_Silence" tip="[28d6d0]沉默[-]\n类型：特殊状态\n不能使用主动技能\n※持续至回合结束" />
+  <item name="Status_Dizzied" tip="[28d6d0]眩晕[-]\n类型：特殊状态\n移动力恒定为0，且跳过行动阶段\n※持续至回合结束" />
+  <item name="Status_Status Immune" tip="[28d6d0]状态免疫[-]\n类型：特殊状态\n不会被施加其他特殊状态\n※持续至回合开始" />
+  <item name="Status_Asylum" tip="[28d6d0]庇护[-]\n类型：特殊状态\n被攻击时，抵消至多2点伤害" />
+  <item name="Status_Slow" tip="[28d6d0]缓速[-]\n类型：特殊状态\n移动力减1，可以叠加\n※持续至回合结束" />
+  <item name="Buff_Cold Blood" tip="[28d6d0]冷血[-]\n类型：增益\n物理攻击会额外造成与物理伤害等值的魔法伤害\n※持续至回合结束" />
+  <item name="Buff_Violent" tip="[28d6d0]狂暴[-]\n类型：增益\n物理攻击造成物理伤害+1\n※持续至下一次物理攻击或回合结束" />
+  <item name="Buff_PoHuai" tip="[28d6d0]破坏[-]\n类型：增益\n物理攻击命中时随机封印目标一件装备\n※持续至下一次物理攻击或回合结束" />
+  <item name="Buff_DongCha1" tip="[28d6d0]远程打击[-]\n类型：增益\n物理攻击距离+2\n※持续至下一次物理攻击或回合结束" />
+  <item name="Buff_DongCha2" tip="[28d6d0]精确打击[-]\n类型：增益\n物理攻击无视闪避与格挡\n※持续至下一次物理攻击或回合结束" />
+  <item name="Buff_Lacerate" tip="[28d6d0]撕裂[-]\n类型：增益\n物理攻击造成2层【流血】，且必中\n※持续至回合结束" />
+  <item name="Buff_Spunk" tip="[28d6d0]怒意[-]\n类型：增益\n如果看到了这个请提交BUG" />
+  <item name="Buff_Stealth" tip="[28d6d0]潜行[-]\n类型：增益\n物理攻击造成物理伤害+1\n※回持续至回合结束" />
+  <item name="Buff_linyingtuxi" tip="[28d6d0]林影突袭[-]\n类型：增益\n攻击距离+1，且必中\n※持续至回合结束" />
+  <item name="Buff_jingubang1" tip="[28d6d0]加长型金箍棒[-]\n类型：增益\n攻击距离+3\n※持续至回合结束" />
+  <item name="Buff_jingubang2" tip="[28d6d0]加粗型金箍棒[-]\n类型：增益\n物理攻击造成魔法伤害+1\n※持续至回合结束" />
+  <item name="Buff_MoJingBiaoQiang" tip="[28d6d0]魔晶标枪[-]\n类型：增益\n攻击距离+1\n※持续至回合结束" />
+  <item name="Aura_Retribution" tip="[28d6d0]荆棘[-]\n类型：光环效果\n受到物理伤害时，有70%的概率对伤害来源造成1点神圣伤害" />
+  <item name="Aura_Hex's Anchor" tip="[28d6d0]海妖之锚[-]\n类型：光环效果\n在水中时，可以进行物理攻击，且物理攻击造成魔法伤害+1" />
+  <item name="Aura_Blood Ritual" tip="[28d6d0]血继限界[-]\n类型：光环效果\n攻击距离+1，50%概率物理攻击造成物理伤害+1" />
+  <item name="Terrain_Shop" tip="[28d6d0]商店[-]\n类型：地形效果\n可以购买中立商店的装备" />
+  <item name="Terrain_Magic Spring" tip="[28d6d0]魔法泉[-]\n类型：地形效果\n夜晚时，随机主动技能的冷却减1\n※优先减少英雄主动技能的冷却" />
+  <item name="Aura_dongwuxinshi" tip="[28d6d0]动物信使[-]\n类型：光环效果\n可以购买中立商店的装备" />
+  <item name="Buff_chiwu" tip="[28d6d0]炽舞[-]\n类型：增益\n下一次攻击或技能造成魔法伤害+1\n※持续至回合结束" />
+  <item name="Buff_siming" tip="[28d6d0]司命[-]\n类型：增益\n生命值上限+1\n※持续至死亡" />
+  <item name="Buff_tulu1" tip="[28d6d0]屠戮[-]\n类型：增益\n移动力+1\n※持续至回合结束" />
+  <item name="Buff_tulu2" tip="[28d6d0]屠戮[-]\n类型：增益\n移动力+2\n※持续至回合结束" />
+  <item name="Buff_zhandoubenneng" tip="[28d6d0]战斗本能[-]\n类型：增益\n移动力+1\n※持续至回合结束" />
+  <item name="Buff_jinu" tip="[28d6d0]激怒[-]\n类型：增益\n攻击距离+2\n※持续至回合结束" />
+  <item name="Status_LiuXue" tip="[28d6d0]流血[-]\n类型：特殊状态\n可以叠加，回合结束时造成叠加层数等量魔法伤害\n※持续至回合结束" />
+  <item name="Status_jinka" tip="[28d6d0]封印[-]\n类型：特殊状态\n不能使用魔晶卡\n※持续至回合结束" />
+  <item name="Buff_xianxueshengyan" tip="[28d6d0]鲜血盛宴[-]\n类型：增益\n生命值上限+2\n※持续至回合结束" />
+  <item name="Buff_wanglingfuti" tip="[28d6d0]亡灵附体[-]\n类型：增益\n生命值上限+2\n※持续至回合结束" />
+  <item name="Aura_moyingxuetong" tip="[28d6d0]魔鹰血统[-]\n类型：光环\n使用主动技能时有几率获得1张镇静剂" />
+  <item name="Aura_xinlingmiwu" tip="[28d6d0]心灵迷雾[-]\n类型：光环效果\n敌方回合开始时有特殊状态时，使其【流血】\n己方回合开始时有特殊状态时，回复1点生命值" />
+  <item name="Buff_ShunBU" tip="[28d6d0]瞬步[-]\n类型：增益\n攻击距离+1\n※持续至回合结束" />
+  <item name="Aura_YiWaiShouHuo" tip="[28d6d0]意外收获[-]\n类型：光环效果\n获得金币时有几率额外获得金币或魔晶卡\n※不会重复触发" />
+  <item name="Buff_JuJi" tip="[28d6d0]狙击[-]\n类型：增益\n攻击距离+3\n※持续至回合结束" />
+  <item name="Status_FengYin" tip="[28d6d0]封印[-]\n类型：特殊状态\n不能使用魔晶卡\n※持续至回合结束" />
+  <item name="Buff_MaiChong" tip="[28d6d0]脉冲[-]\n类型：增益\n物理攻击距离+1\n物理攻击命中时使目标【缓速】\n物理攻击命中时50%几率额外造成1点魔法伤害\n※持续至回合结束" />
+  <item name="Buff_XueWu" tip="[28d6d0]雪舞[-]\n类型：增益\n物理攻击命中时造成魔法伤害+1，并对目标造成2层【缓速】\n※持续至回合结束" />
+  <item name="Aura_FengYing" tip="[28d6d0]风影[-]\n类型：光环效果\n移动力更低的敌人攻击自己时，有几率闪避攻击" />
+  <item name="Aura_ShiXue" tip="[28d6d0]嗜血[-]\n类型：光环效果\n攻击命中时会回复生命值" />
+</config>

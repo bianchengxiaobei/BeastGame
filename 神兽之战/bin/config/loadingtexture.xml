@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <item id="1" picture="Texture/Loading/loading_1" />
+  <item id="2" picture="Texture/Loading/loading_2" />
+  <item id="3" picture="Texture/Loading/loading_3" />
+  <item id="4" picture="Texture/Loading/loading_4" />
+</config>

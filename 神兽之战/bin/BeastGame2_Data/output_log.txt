@@ -1,0 +1,1918 @@
+Initialize engine version: 4.7.0f1 (9c73fd3cda99)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     192 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\LitJson.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.346 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\System.Xml.dll (this message is harmless)
+Install Success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 805.
+Total: 0.991986 ms (FindLiveObjects: 0.054441 ms CreateObjectMapping: 0.013387 ms MarkObjects: 0.278452 ms  DeleteObjects: 0.007139 ms)
+
+512X384
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+640X400
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+640X480
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+800X600
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1024X768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1280X600
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1280X720
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1280X768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1360X768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1366X768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ClientState_Login.OnEnter()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 965.
+Total: 3.623451 ms (FindLiveObjects: 0.039715 ms CreateObjectMapping: 0.016510 ms MarkObjects: 0.675157 ms  DeleteObjects: 2.234759 ms)
+
+Connect sucess
+Fallback handler could not load library E:/chenfuling/Unity/毕业设计/BeastGame/神兽之战/bin/BeastGame2_Data/Mono/libc
+Fallback handler could not load library E:/chenfuling/Unity/毕业设计/BeastGame/神兽之战/bin/BeastGame2_Data/Mono/.\libc
+Fallback handler could not load library E:/chenfuling/Unity/毕业设计/BeastGame/神兽之战/bin/BeastGame2_Data/Mono/libc
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+72
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1003
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 154 unused Assets to reduce memory usage. Loaded Objects now: 1092.
+Total: 1.660451 ms (FindLiveObjects: 0.107543 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.784486 ms  DeleteObjects: 0.099511 ms)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+123
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+5559
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Select Id:97024195887106
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1005
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+PlayerRole.Id=97024195887106
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 193 unused Assets to reduce memory usage. Loaded Objects now: 1034.
+Total: 2.291431 ms (FindLiveObjects: 0.082107 ms CreateObjectMapping: 0.027220 ms MarkObjects: 0.778238 ms  DeleteObjects: 0.760835 ms)
+
+Initialize engine version: 4.7.0f1 (9c73fd3cda99)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     192 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\LitJson.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.200 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\System.dll (this message is harmless)
+System.IO.IOException: Sharing violation on path E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\localLog.txt
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean isAsync, Boolean anonymous) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access) [0x00000] in <filename unknown>:0 
+  at Utility.Export.Logger.Init (System.String strFilePath) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Platform assembly: E:\chenfuling\Unity\毕业设计\BeastGame\神兽之战\bin\BeastGame2_Data\Managed\System.Xml.dll (this message is harmless)
+Install Success!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 805.
+Total: 0.942008 ms (FindLiveObjects: 0.037483 ms CreateObjectMapping: 0.012940 ms MarkObjects: 0.242307 ms  DeleteObjects: 0.008032 ms)
+
+512X384
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+640X400
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+640X480
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+800X600
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1024X768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1280X600
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1280X720
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1280X768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1360X768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+1366X768
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+ClientState_Login.OnEnter()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 965.
+Total: 8.687359 ms (FindLiveObjects: 0.132532 ms CreateObjectMapping: 0.049532 ms MarkObjects: 1.735419 ms  DeleteObjects: 5.593592 ms)
+
+Connect sucess
+Fallback handler could not load library E:/chenfuling/Unity/毕业设计/BeastGame/神兽之战/bin/BeastGame2_Data/Mono/libc
+Fallback handler could not load library E:/chenfuling/Unity/毕业设计/BeastGame/神兽之战/bin/BeastGame2_Data/Mono/.\libc
+Fallback handler could not load library E:/chenfuling/Unity/毕业设计/BeastGame/神兽之战/bin/BeastGame2_Data/Mono/libc
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1003
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 154 unused Assets to reduce memory usage. Loaded Objects now: 1092.
+Total: 1.673392 ms (FindLiveObjects: 0.060688 ms CreateObjectMapping: 0.022311 ms MarkObjects: 0.817061 ms  DeleteObjects: 0.101296 ms)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+2548
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+5656
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 197 unused Assets to reduce memory usage. Loaded Objects now: 1177.
+Total: 2.441813 ms (FindLiveObjects: 0.057118 ms CreateObjectMapping: 0.018741 ms MarkObjects: 0.902293 ms  DeleteObjects: 0.755480 ms)
+
+assets/resources/data/model/heromodel/base_hero.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+assets/resources/data/model/weapons/longsword/longsword_010lv_01_o01.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+assets/resources/data/model/weapons/heavyshield/heavyshield_050lv_01_o01.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+assets/resources/data/model/heromodel/heavy_050lv_hero.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+assets/resources/data/model/heromodel/heavy_050lv_hero.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+assets/resources/data/model/heromodel/heavy_050lv_hero.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+assets/resources/data/model/heromodel/heavy_050lv_hero.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+assets/resources/data/model/heromodel/heavy_050lv_hero.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+<RI.Hid> Device is not supported:  (65280, 0x0001).
+ 
+(Filename:  Line: 117)
+
+<RI.Hid> Device is not supported:  (65280, 0x0001).
+ 
+(Filename:  Line: 117)
+
+<RI.Hid> Device is not supported:  (65281, 0x0001).
+ 
+(Filename:  Line: 117)
+
+<RI.Hid> Device is not supported:  (65281, 0x0001).
+ 
+(Filename:  Line: 117)
+
+<RI.Hid> Device is not supported: USB OPTICAL MOUSE  (65280, 0x0001).
+ 
+(Filename:  Line: 117)
+
+<RI.Hid> Device is not supported: USB OPTICAL MOUSE  (65280, 0x0001).
+ 
+(Filename:  Line: 117)
+
+<RI.Hid> Device is not supported: USB OPTICAL MOUSE  (65281, 0x0001).
+ 
+(Filename:  Line: 117)
+
+<RI.Hid> Device is not supported: USB OPTICAL MOUSE  (65281, 0x0001).
+ 
+(Filename:  Line: 117)
+
+返回按钮
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+返回按钮
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+36
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1005
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+PlayerRole.Id=97227886362645
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 282 unused Assets to reduce memory usage. Loaded Objects now: 1715.
+Total: 2.871094 ms (FindLiveObjects: 0.356097 ms CreateObjectMapping: 0.155737 ms MarkObjects: 1.528364 ms  DeleteObjects: 0.176710 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2044.
+Total: 2.080361 ms (FindLiveObjects: 0.094602 ms CreateObjectMapping: 0.023204 ms MarkObjects: 1.308815 ms  DeleteObjects: 0.025435 ms)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1008
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1369.
+Total: 1.902312 ms (FindLiveObjects: 0.060242 ms CreateObjectMapping: 0.020080 ms MarkObjects: 1.186100 ms  DeleteObjects: 0.007139 ms)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1008
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1009
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+BeastList:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+init beastdata
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+init beastdata
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+init beastdata
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1009
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+BeastList:3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+init beastdata
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+init beastdata
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+init beastdata
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized filesUnow loadnlo 0 / Dirty serialized files: 0)
+(Serialized files now loaded: 0 / Dirty serialized fiLoaded O
+b
+jects now: 2073.
+Total: ets to reduce memory usage. Loa0.126285 ms CreateObjec
+Total: g: 076131 ms (FindLiveObjects: 457859043 ms CreateObjectMapp0.1880.020973
+
+ms MarkObjects: 1.186546 ms  DeleteObjects: 0.413662 ms)
+
+Our BeastId:97227886362646
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Our BeastId:97227876270082
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Our BeastId:97227886362649
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGeOur BeastId:97227876532229
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Our BeastId:972278765n22era
+te
+d/UnityEngineDebug.cpp e/unLine: 56)
+
+OuriBeastId:97227886362652
+ 
+(Filename: C:/buineDebug.cpp Linebuild/a
+r
+tifacts/StandaloBeast num=3
+ 
+(Filename: C:/buildslave/unity/buil
+d
+/artifactB/StandaloneP
+la
+yerGenerated/UnityEngineDebug./bu Line: 56)
+
+acts/StandalonePOur BeastId:97227886362646
+ 
+(Filename: C:/bui
+l
+dslave/unity/buOld/artifacts/StandalonePlay
+er
+Generated/UnityEngineDve/unitebug.cpp Line: 56)
+
+andalonePlayerGeneraOeur BeastId:97227886362649
+ 
+(File
+n
+ame: C:/buildslave/unity/Ouild/artifacts/StandalonePla
+ye
+rGinerated/UnityEngineDebug.cpp Line: 56)
+
+acts/StandOur BeastId:97227886362652
+ 
+(Filename: C:/buildslav
+e
+/unityObuild/artifacts/StandaloneP
+ aye
+rGenerated/UnityEngineDebug.cpp Line: 56)ac
+ts/StaBdalonePlayer
+Ge
+nerated/UnityEngineDebug.cpp Line: 56)
+
+ifacts/StBeast num=3
+ 
+(Filename: C:/builandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+nityEngineDebug.cpp Line: 56)
+
+GAME_PHASE_CHOOSING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Send SelectId:97227876270082
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+GAME_PHASE_CHOOSING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Send SelectId:97227876532229
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+GAME_PHASE_CHOOSING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Send SelectId:97227876532232
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+GAME_PHASE_CHOOSING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Send SelectId:97227886362646
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+GAME_PHASE_CHOOSING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Send SelectId:97227886362649
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+GAME_PHASE_CHOOSING
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Send SelectId:97227886362652
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+28
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1012
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1013
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1014
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1014
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1015
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1015
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Error
+ 
+
+(
+Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerrtedated/UnityEngineDebug.cpp Line: 
+5
+6)E
+r
+roE
+ 
+(Fi
+le
+name: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Erro
+r
+
+ 
+(Fi
+le
+name: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Erro
+r
+
+ 
+(Fi
+le
+name: C:/buildslave/unityun/build/artifacts/StandalonePlayerGenGenerated/UnityEngineDebug.cpp Line: 5
+6
+)E
+r
+Eor
+ 
+(
+Fi
+lename: C:/buildslave/unity/build/artifacts/StaStandalonePlayerGenerated/UnityEnginendalonePlayerGenerat
+e
+Error
+ 
+(Filename: C:/buildslave/
+u
+Erty/bu
+il
+d/artifacts/StandalonePlayerGenerated/Unitycts/StandalonePlayerGenerat
+e
+d/UnityEngineDebug.cpp Line: 56)
+
+Error
+ 
+(Filename: C:/builEslave/u
+ni
+ty/build/artifaucts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+EngError
+ 
+(Filename: C:/b
+u
+Errorve/
+unity/build/artifacts/StandalonePlayerGeneacts/StandalonePlayerGenerated/UnityEng
+i
+neDebug.cpp Line: 56)
+
+Error
+ 
+(Filename: C:/buildslaveEurroy/buird
+ rt
+(fFcil/ename: C:/buildslave/unityUnitld/artifacts/StandalonePlay
+e
+Error
+ 
+(Filename: C:/buildslave/unity/bui
+l
+d/artif
+ac
+ts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line:n56eP
+l
+Error
+ 
+(Filename: C:/buildslave/unity/build/
+a
+Error
+ 
+(Ftandalone C:/buildslave/unity/build/artifacts/Standalone
+P
+EayerGe
+ne
+rated/UnityEngineDebug.cpp Line: 56)
+
+rtifact
+s/
+SFilename: C:/buildslave/unity/build/artifacts/Standalone
+P
+laEerGene
+ra
+ted/UnityEnC:/buildslave unity/buLld/artifac
+t
+sErronda
+lo
+nePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts
+/
+Error
+ 
+(Filename: C:/buildslave/unity/build/a Line: t6if
+a
+Error
+ 
+(Filename: C:/buildslave/unity/build/artifacts/Standalo6)Pay
+erGErroate
+d/
+UnityEngineDebug.cpp Line: 56)
+
+uild/ar
+ti
+facts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+enerate
+d/
+UnityEngineDebug.cdslave/unity/
+b
+uError
+ 
+(Filename: C:/buildslave/unity/build/ariitayts/StaedalonePlayerGLine: 56en
+e
+rated/U
+ni
+tyEnename: C:/buildsle: 56a
+v
+e/unit
+y/
+build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+nitryEn
+gi
+(Filename: C:/buildsla
+v
+e/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDeEurror
+ 
+pFp eLaine: 56)
+
+lErrove/
+un
+ity/buald/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+yEngine
+De
+bug.cpp Line: 56)
+
+slave/u
+ni
+ty/build/arC:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/Uni
+t
+Error
+ 
+(Filename: C:/build
+s
+lavError
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StainnDdbag.ocpp Line: 56)
+
+ed/Unit
+yE
+ngineDebug.cpp Line: 56)un
+Error
+il
+d/irtlfactenamendalonePl: C:/buildslave/unity/build/artifacts/Standal
+o
+Errory
+er
+Generated/UnityuiEngineDebug.cpp Line: 56)
+
+ts/ror
+ 
+(Filename: C:/buildslave/unity/build/artifacts/Stan
+d
+alEnerola
+ y
+eFrGeeane: at/edi/Usnivtyunity/build/artifacts/St6)
+
+lonePla
+ye
+rGenerate: C:/buildslave/unity/build/artifa
+c
+ts/Error
+ 
+nFelPlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+alonePl
+ay
+erGenerated/UnityEngineDebug.cpp Line: 56)
+
+tsError
+ 
+(Filename: C:/bued/sUave/niityybEnlg/intefaebsugt.ncplpn Lliyerneee: t5d6)it
+EError
+ 
+(Filename: C:/buil
+d
+slave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+assets/resources/data/model/beastmodel/stoneking/stoneking.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+assets/resources/data/model/beastmodel/stoneking/stoneking.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 5a)
+
+ssseet/resources/data/model/beastmodel/s/stoneking/stoneking.prefab
+
+ 
+
+(iilenamme: C:/buildslave/unity/build/artifacts/StandalooenlePlayerGenerated/UnityEngineDebug.cpp Line: 5
+6
+)
+
+asaets/resources/data/model/beastdodel/stoneking/stoneking.prefab
+in
+g.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayernGeyEerated/UnityEngineDe b6ug
+
+.appe Lirne: 56)/d
+ata/model/beastmodel/stoneking/stoneking.prefab
+ 
+(Filename: C:/build
+sl
+ave/unity/build/artifacts/StandalonePlayerGeneiated/UnityEngineDebug.cpp nene:t5ed
+/
+Unistys/negoincesDeabaugo.el/cpp Line: 56)
+
+ekiag/stoneking.prefab
+ 
+(Filename: C:/buildslnve/unity/build/artifacts/
+St
+andalonePlayerGenerated/UniiyEngiteye/ug.cpp Line: 56)
+
+tanssets/resources/daat/eod/UnityEngineDebug.cpp Line:n 56)g.
+prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+assets/resources/data/model/beastmodel/stoneking/stoneking.prefab
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+key:0 is alrkadey:0 is a
+leady loaded
+ 
+(Filenalave/unity/build/artifacts/StandalonePlayerGeneraneted/UnityEngineDebug.cpp Line: 56)p 
+Line: 56)
+
+load scene: GameMain
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGeneratedlonatyEngineDebug.cpp L
+in
+e: 56)me
+: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 3 Unused Uerialidzed files (SeSearialized files (Seriali 0 / Dirty serialized 0 l/ :D0ir
+
+tyl asengi4al unesd  fsilte s: 0)
+ce memory usage. Loaded Objects now: 1461.
+Total: e. Loaded mbs (FindLiveObject
+Total: 243300639 ms (FindLiveObjects: 0.205269 ms CreateObjectMapping:  ms  Dele msbjeats: bj2ec301  1)
+
+78747 ms  DeleteObjects: 0.240076 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce mUmory usage. 0 Unused Serias now: 2356.
+Seriali ed files0 ms (FindLiveObjects: 0.602867 ms Cres: 0)
+ectMapping:  0nuse730A msetarkObjects: 3.361956 ms  DeleteObjects: s now: 1676.
+T
+o
+tal: 6.550326 ms (FindLiveObjects: 0.206161 ms CreateObjectMapping: 0.134763 ms MarkObjects: 5.228569 ms  DeleteObjects: 0.008478 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2485.
+Total: 3.942512 ms (FindLiveObjects: 0.287377 ms CreateObjectMapping: 0.048639 ms MarkObjects: 2.625663 ms  DeleteObjects: 0.020080 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 1806.
+Total: 3.814441 ms (FindLiveObjects: 0.130747 ms CreateObjectMapping: 0.037930 ms MarkObjects: 2.348996 ms  DeleteObjects: 0.022311 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3109.
+Total: 4.520836 ms (FindLiveObjects: 0.194559 ms CreateObjectMapping: 0.049978 ms MarkObjects: 3.382037 ms  DeleteObjects: 0.099064 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2430.
+Total: 5.702474 ms (FindLiveObjects: 0.157968 ms CreateObjectMapping: 0.039715 ms MarkObjects: 4.098695 ms  DeleteObjects: 0.120484 ms)
+
+Unloading 1 Unused Serializegd1 fileed Serialized files (Serialized files now loaded: 0 / Dirty  0)
+lUnloading 0 unus
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Ob
+Total: ow: 2431.
+Total: dLiveObjects ( 0.161984 ms CreateObjectMa0.139220.041500 ms MarkObjects:  0.035699 ms MarkObjebjects: 0.021865 ms)et
+eObjects: 0.016510 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2431.
+Total: 2.357474 ms (FindLiveObjects: 0.120038 ms CreateObjectMapping: 0.031236 ms MarkObjects: 1.607349 ms  DeleteObjects: 0.007586 ms)
+
+Unloading 1 Unused Uernloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty 
+s
+erialized files: 0)
+
+Unloading 0 cenused Asset  to reduce memory usage. Loaded Objects now: 3280.
+Total: 3.466822 ms (Finmemory usage. 0.238737 ms CreateObjectMa
+Total: 3.046854 ms MarkObjects: 2.425749 ms  DeleteObjects: 0.016510 ms)
+
+1640 ms MarkObjects: 2.113382 ms  DeleteObjects: 0.020526 ms)
+
+Unloading 0 Unused de Salized fid files (Serialized files now load0 / Dirty serislizedefries: 0)
+
+Unloading 
+0
+ unused As0 unused Assets to reduce memoryded Objestagnew: 2822.
+Total: s now: 3501.
+ToindLiv3.686817 ms (FindLiveObjects: 0.209285 ms C0.036ObjectMapping: 0.041946 ms MarkObjects: 2.568099 ms  DeleteObjects: 0.011155 ms)
+
+591 ms MarkObjects: 2.494916 ms  DeleteObjects: 0.009817 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3502.
+Total: 13.336712 ms (FindLiveObjects: 0.168677 ms CreateObjectMapping: 0.039715 ms MarkObjects: 2.398975 ms  DeleteObjects: 0.012048 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2823.
+Total: 3.332058 ms (FindLiveObjects: 0.143688 ms CreateObjectMapping: 0.037483 ms MarkObjects: 2.439582 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2824.
+Total: 3.098676 ms (FindLiveObjects: 0.132086 ms CreateObjectMapping: 0.035252 ms MarkObjects: 2.315082 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3504.
+Total: 14.347441 ms (FindLiveObjects: 0.165108 ms CreateObjectMapping: 0.040161 ms MarkObjects: 2.351227 ms  DeleteObjects: 0.010709 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3505.
+Total: 3.603817 ms (FindLiveObjects: 0.165554 ms CreateObjectMapping: 0.039715 ms MarkObjects: 2.776938 ms  DeleteObjects: 0.011155 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2825.
+Total: 10.397789 ms (FindLiveObjects: 0.136995 ms CreateObjectMapping: 0.036Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3506.
+Total: 4.036668 ms (FindLiveObjects: 0.157521 ms CreateObjectMapping: 0.041053 ms MarkObjects: 2.456539 ms  DeleteObjects: 0.012494 ms)
+
+145 ms MarkObjects: 2.357474 ms  DeleteObjects: 0.009817 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2826.
+Total: 2.957218 ms (FindLiveObjects: 0.154844 ms CreateObjectMapping: 0.035699 ms MarkObjects: 2.161576 ms  DeleteObjects: 0.008032 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3507.
+Total: 3.824259 ms (FindLiveObjects: 0.436866 ms CreateObjectMapping: 0.068720 ms MarkObjects: 2.694830 ms  DeleteObjects: 0.011602 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2827.
+Total: 4.860423 ms (FindLiveObjects: 0.300318 ms CreateObjectMapping: 0.078984 ms MarkObjects: 3.844785 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3508.
+Total: 6.017518 ms (FindLiveObjects: 0.579663 ms CreateObjectMapping: 0.059795 ms MarkObjects: 4.394997 ms  DeleteObjects: 0.013833 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unuUednloading 0 Unused Serialized files (Serialized files now l
+Total: 0 / Dirty serialized files: 0)
+0
+.277559 m  0r utnubsec Assets to 0.049532 ms MarkObjects: 2e.9O2jects now: 3509.bjects: 4.740831 ms (
+F
+indLiveObjects: 0.457393 ms CreateObjectMapping: 0.067381 ms MarkObjects: 3.487349 ms  DeleteObjects: 0.011155 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2830.
+Total: 5.107193 ms (FindLiveObjects: 0.346280 ms CreateObjectMapping: 0.079876 ms MarkObjects: 4.076829 ms  DeleteObjects: 0.012048 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3510.
+Total: 4.280760 ms (FindLiveObjects: 0.340033 ms CreateObjectMapping: 0.704609 ms MarkObjects: 2.534185 ms  DeleteObjects: 0.011155 ms)
+
+Unloading 1 Unused Serialized fiUes (Serialg e0  ilused Serialized files (Serialized files now lo
+a
+ded: 0 / Dirty serialized files: 0)
+emory usage. Loaded Osjsett now: 2831.
+To am:emo681016 ms (FindLiveObjects: 0.268188 
+Total: teObjectMapping: 0.054441 ms : r1O.0e4t6:87.4 4m8s mCr eeatteObbjcec: Mapping:00.1 557s)s 
+MarkObjects: 3.469053 ms  DeleteObjects: 0.012940 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2832.
+Total: 4.983585 ms (FindLiveObjects: 0.310135 ms CreateObjectMapping: 0.149489 ms MarkObjects: 3.909936 ms  DeleteObjects: 0.012048 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3512.
+Total: 4.043808 ms (FindLiveObjects: 0.348065 ms CreateObjectMapping: 0.210624 ms MarkObjects: 2.744809 ms  DeleteObjects: 0.010709 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3513.
+Total: 5.166096 ms (FindLiveObjects: 0.302995 ms CreateObjectMapping: 0.085677 ms MarkObjects: 4.15269U ms  Ddling 1 Unused Serializms)
+
+les (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2833.
+Total: 4.472642 ms (FindLiveObjects: 0.265957 ms CreateObjectMapping: 0.062473 ms MarkObjects: 3.426661 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2834.
+Total: 4.776084 ms (FindLiveObjects: 0.395366 ms CrUateObjectMappingse0d 4S0e1risaMlikzejects: 3.622559 ms  DeleteObje loade0.0129 Dirty 
+s
+erialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3518.
+Total: 4.546271 ms (FindLiveObjects: 0.852760 ms CreateObjectMapping: 0.174925 ms MarkObjects: 2.664932 ms  DeleteObjects: 0.011155 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3520.
+Total: 7.835491 ms (FindLiveObjUcts: 1.448042 ms CreateObjectMapping: 0.088355nloading 1 Unused Serialized f Deiltes j(cSe: 0a0l38z3eds)f
+i
+les now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2839.
+Total: 5.519516 ms (FindLiveObjects: 0.249446 ms CreateObjectMapping: 0.047747 ms MarkObjects: 3.461913 ms  DeleteObjects: 0.011602 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2841.
+Total: 5.105408 ms (FindLiveObjects: 0.946024 ms CreateObjectMapping: 0.154398 ms MarkObjects: 3.378467 ms  DeleteObjects: 0.010709 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3U25.
+Total: 7.330796 ms nFindLiveObjects:  Seriali0ed files (Serializedpping: 0.091032 ms MarkO files n5.411081 ms  DeleteObjects: 0.017403 ms)
+
+: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2846.
+Total: 7.375420 ms (FindLiveObjects: 0.267296 ms CreateObjectMapping: 0.066935 ms MarkObjects: 4.473088 ms  DeleteObjects: 0.013833 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+UnlUanina 0 unu0 edu As setia to reducee  mermolry d siaegen.w Loaade:d0 O bijec tes nliw:d f35e2:6.)
+
+Totoali:g 05u.us706As1etmsto(FindLiveObjects: ge.25 L7oamsedr Otbjbeectsappong: 2.85479. 
+sTMotkabje t3: 307281379 sm s l(FeinjdLtiv 0O0bj9e0ctss
+ 0.215532 ms CreateObjectMapping: 0.051763 ms MarkObjects: 2.689029 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 0 Unused Serialized files (Serialized fiUes now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Lo
+a
+ded Objects now: 2847.
+Total: educe memory usage. Loaded Objects04376 ms Crea
+Total: tMapping: 0.046408 ms MarkObjec0.192.861277CreateObjectMapping:00.043731 ms
+M
+rkObjects: 3.023708 ms  DeleteObjects: 0.011155 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+U
+Unnloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty
+ serial5.396355 ms (Fi
+
+Unloading 0 unused Assets to reduce memory usag0.038822 ms MarkObjects: 4.51
+4142 ms4.291470 ms (FindLiveObjects: 
+0
+.225350 ms CreateObjectMapping: 0.045962 ms MarkObjects: 3.072348 ms  DeleteObjects: 0.011155 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialUzenloading 0 U
+
+Unloading 0 unused Assets to reduce memory usaae. Loaded Objects now: 3526.
+Total: serialized files: 0)
+
+Unloading0.239629 ms CreateObjectMapping: 0.052209 ms MarkObjects: 4.206238 
+ms  lDe3.883162 ms (0.012494 ms)
+
+s: 0.155737 ms CreateObjectMapping: 0.040607 ms MarkObjects: 2.801927 ms  DeleteObjects: 0.008924 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 3.903689 ms (FindLiveObjects: 0.442668 ms CreateUbjectMapping: 0.097726 ms MarkObjects: 2.745701 ms  DeleteObjects: 0.010709 ms)
+
+ialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 3.570349 ms (FindLiveObjects: 0.175817 ms CreateObjectMapping: 0.043731 ms MarkObjects: 2.598889 ms  DeleteObjects: 0.011155 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 4.814907 ms (FindLivUObnloadin0.263280 ms CreateObjectMapping: alized files MarkObjects:03.887624 ms  DeleteObjects: )
+011602 ms)0 
+unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 3.676554 ms (FindLiveObjects: 0.559136 ms CreateObjectMapping: 0.058457 ms MarkObjects: 2.300356 ms  DeleteObjects: 0.008924 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialiUednloading 0 
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+les: 0)
+5
+.117010 ms (FindLiveObjects: 0.200360 ms CreateObjectMapping: ts now: 2847.
+Total: 3.5684.227658 ms  DeleteObject0.10.012940 ms)
+
+eObjectMapping: 0.037483 ms MarkObjects: 2.615846 ms  DeleteObjects: 0.009817 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized filUs: 0)
+
+Unloading 0 unusednloading 0 Unused Semory usage. Loaded Objects now: 3526.
+Total:  0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to re0.121376 ms MarkObjects: 4.042915 ms  DeleteO
+bjects:3.891194 ms (F
+i
+ndLiveObjects: 0.160199 ms CreateObjectMapping: 0.038822 ms MarkObjects: 2.743470 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memoryUusage. Loaded Objects now: 3526.
+Total: 4.981800 ms (FindLiveObjects: 0.232489 ms CreateObjectMapping: 0.044177 ms MarkObjects: 4.086646 ms  DeleteObjects: 0.012494 ms)
+
+nloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 4.919773 ms (FindLiveObjects: 0.162430 ms CreateObjectMapping: 0.039715 ms MarkObjects: 2.643513 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 5.124596 ms (FindLiveObjects: 0.174032 ms CreateObjectMapping: 0.043731 ms MarkObjects: 4.282545 ms  DeleteObjects: 0.012494 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 3.111170 ms (FindLiveObjects: 0.142349 ms CreateObjectMapping: 0.037930 ms MarkObjects: 2.335163 ms  DeleteObjects: 0.009817 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 4.908170 ms (FindLiveObjects: 0.310581 ms CreateObjectMapping: 0.052209 ms MarkObjects: 3.891194 ms  DeleteObjects: 0.012494 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 3.319563 ms (FindLiveObjects: 0.138333 ms CreateObjectMapping: 0.038822 ms MarkObjects: 2.523475 ms  DeleteObjects: 0.009817 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 4.565013 ms (FindLiveObjects: 0.177156 ms CreateObjectMapping: 0.041946 ms MarkObjects: 3.710468 ms  DeleteObjects: 0.012494 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 4.818923 ms (FindLiveObjects: 0.513619 ms CreateObjectMapping: 0.051317 ms MarkObjects: 3.502521 ms  DeleteObjects: 0.010709 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. LoaUed loObjects now: 2847.i
+alized 3.367311 ms (FindLfilObjenow l0.d7d9387 ms CreateObjectMapping:  0)41
+053 ms MarkObjects: 2.532846 ms  DeleteObj usage0.010263 ms)
+
+ts now: 3526.
+Total: 6.946585 ms (FindLiveObjects: 0.259264 ms CreateObjectMapping: 0.043731 ms MarkObjects: 5.372258 ms  DeleteObjects: 0.012940 ms)
+
+UUloladdingg0 U0 sUdnuesieldz dSferisa(liziedi ef flil (s now loaded: 0 / Dirty serialized ftly : 0)
+lized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Obj
+Total: w: 3526.
+Total: ndLiveObjects: 0.183850 ms Cse:t ObjectMappmns: CreateObjectMapping: c0.048193 ms MarkObjects: 4.810440.009370 ms)
+
+jects: 0.013833 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 4.634627 ms (FindLiveObjects: 0.232936 ms CreateObjectMapping: 0.040607 ms MarkObjects: 3.747059 ms  DeleteObjects: 0.010709 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 5.008574 ms (FindLiveObjects: 0.572969 ms CreateObjectMapping: 0.345388 ms MarkObjects: 3.482886 ms  DeleteObjects: 0.011602 ms)
+
+Unloading 0 Unused Serialized files (Serialized filesUnow loaddi: 0 / Dirty sdr Slereialized file
+s
+ (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 u
+Total: ssets to reduce memory usage. Lo.a54844 ms CreateObjectMap
+Total: 6.19062 74 MarkObjects: 2.594427 m0.179833 ms CreateObjectMapping
+:
+ 0.040607 ms MarkObjects: 5.070155 ms  DeleteObjects: 0.011602 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 4.702901 ms (FindLiveObjects: 0.260156 ms CreateObjectMapping: 0.045070 ms MarkObjects: 3.780081 ms  DeleteObjects: 0.013387 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 4.974660 ms (FindLiveObjects: 0.365915 ms CreateObjectMapping: 0.226242 ms MarkObjects: 3.768479 ms  DeleteObjects: 0.012494 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 4.861315 ms (FindLiveObjects: 0.155737 ms CreateObUecnloading 0 Unused Serialized files 4.057a9l ized files now load0.010263 ms)
+
+serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 4.422217 ms (FindLiveObjects: 0.487738 ms CreateObjectMapping: 0.211963 ms MarkObjects: 2.965251 ms  DeleteObjects: 0.010709 ms)
+
+Unloading 0UUnlsed Serialized filerializedlifiles (Sezia liizsend files now lo deade:: 0   /i tDisrrtyl see rilasl iz
+e
+dn ofiilge0su: s0d)A
+stU nl oeaudeimnmgr  0s gun uoseed  Asbseettsn wto2 r7e
+Tucae: me0m0or0ym u(siadgev.O Leota:de.d5 O5b jsecrtase njocwM:p i35:206.38T2omt alr:O j6c.s2 29001137 mss  (FitedLOvjecOsbj0ec1t2s3: s0
+.
+562259 ms CreateObjectMapping: 0.176263 ms MarkObjects: 4.237475 ms  DeleteObjects: 0.012940 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 4.644444 ms (FindLiveObjects: 0.249446 ms CreateObjectMapping: 0.U66nloading r0Objects: 3.704221 ms  les (Serialized 0.011155 ms)
+
+ed: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 3.733226 ms (FindLiveObjects: 0.164661 ms CreateObjectMapping: 0.064704 ms MarkObjects: 2.787648 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. LoaUednloading 0 Unused Se
+Toaltzad f 4le1s (Serialized files now loaded: 0 / Dirty serialized files:0.03
+
+Unload iangObjects: 4.079507 ms  DeleteObjects: 0.0. 155 ms)
+
+bjects now: 3526.
+Total: 3.789898 ms (FindLiveObjects: 0.207946 ms CreateObjectMapping: 0.134763 ms MarkObjects: 2.621201 ms  DeleteObjects: 0.010709 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: U / loading 0 Unused Siliels: 0)il
+es (Serialized files not loadsd:to reduce m 0 / Dirty serialized files: 0)
+3Unloa
+Total: u5.438747 ms (FindLiveObjects: usage. LoadedCreateObjectMap2ing: 080479.3
+ ms Mar3.716715 m4.515035 ms  Decet:eO.327092 m0.012494 ms)
+
+Mapping: 0.052656 ms MarkObjects: 2.431550 ms  DeleteObjects: 0.008924 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 4.762697 ms (FindLiveObjects: 0.264619 ms CUentlObjectMappUngu 0.044623 ms MarkObjects: 3.817119 ms  DeleteObjects: 0.012940 ms)li
+zed files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 3.804178 ms (FindLiveObjects: 0.259264 ms CreateObjectMapping: 0.098172 ms MarkObjects: 2.700631 ms  DeleteObjects: 0.008924 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 4.489153 ms (FindLiveObjects: 0.169570 ms CreateObjectMapping: 0.037483 ms MarkUbjects: 3n666g370ms  DeleteObjectsed0.010263 ms)
+
+ized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 3.895210 ms (FindLiveObjects: 0.194113 ms CreateObjectMapping: 0.130747 ms MarkObjects: 2.809960 ms  DeleteObjects: 0.011155 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 4.496739 ms (FindLiveObjects: 0.148150 ms CreatUObjectMapping: 0.093709 ms MarkOfiles (S3.64l64ized files now loaded0.0 / Dirty s
+e
+rialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 3.916184 ms (FindLiveObjects: 0.489076 ms CreateObjectMapping: 0.045070 ms MarkObjects: 2.553373 ms  DeleteObjects: 0.011602 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded ObjUctsnloading 0 U
+Total: e4.845697 ms (FindLiveObjects: 0.247215 mseCd:ateObjectMapping: 0.061134 ms Mar
+k
+Objects:  0 unused AsseDtls etojercts:  me01ry 94 ms)
+
+Loaded Objects now: 2847.
+Total: 3.927786 ms (FindLiveObjects: 0.275775 ms CreateObjectMapping: 0.042392 ms MarkObjects: 2.809067 ms  DeleteObjects: 0.011602 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 4.397674 ms (FindLiveObjects: 0.165108 ms CreateObjectMapping: 0.038376 ms MarkObjects: 3.581505 ms  DeleteObjects: 0U009n17 ms)
+
+0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 4.291916 ms (FindLiveObjects: 0.762620 ms CreateObjectMapping: 0.068274 ms MarkObjects: 2.599335 ms  DeleteObjects: 0.012940 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 4.613207 ms (FindLiveObjects: 0.494877 ms CreateObjectUnloading00 Unused Serialized file3.393193 ms  Dfiles now load0.010709 ms)
+
+serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 5.089343 ms (FindLiveObjects: 0.431512 ms CreateObjectMapping: 0.048193 ms MarkObjects: 3.466376 ms  DeleteObjects: 0.014279 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+U
+Unnloading 0 Unueed SAssets to reldu cSerialized files now loaded: 0 / Dirty seri
+Total: f5.128 16
+6
+ nmsa i(g F inudeL AiseeO bojreeucetse:or0 usage. Loaded Objects nMwa pping:
+ otal: 070 ms MarkObjects: 3.977318 ms .345l8etme Objects: 0.012494 ms)0
+.
+043285 ms MarkObjects: 2.575239 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 3526.
+Total: 4.015695 ms (FindLiveObjects: 0.360560 ms CreateObjectMapping: 0.045962 ms MarkObjects: 2.869309 ms  DeleteObjects: 0.012494 ms)
+
+UnloadTime: 0.176710 ms
+UnloadTime: 0.140564 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 35U6.
+Total: 3.363295 ms (FindLiveObjects: 0.121376 ms CreateObjectMapping: 0.042392 ms MarkObjects: 2.506518 ms  Deletenbjecadin0.012940 ms)
+
+rialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 4.459255 ms (FindLiveObjects: 0.107543 ms CreateObjectMapping: 0.036145 ms MarkObjects: 2.495808 ms  DeleteObjects: 0.015618 ms)
+
+消息Id:1020
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hp Init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/Standalo�ePl�ye�Gen�rItd:/1020
+ 
+(ineDebug.cpC:Line: 5uil
+d
+slave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hp Init
+ 
+(Filename: C�/��ildsld:ve/un
+it
+y/buename: C:/buildslave/unity/build/aratied/UnityEnginonebug.cprGenerated/U
+
+nityEngineDebug.cpp Line: 56)
+
+Hp Init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1020
+ 
+(Filename: C:/�ui��息ve/:10it
+y/
+(Filename: C:/buildsndalonePlayebuild/artifectas/StUnityEnnePlayerGenerated/UnityE
+n
+gineDebug
+.c
+pp Line: 56)
+
+bHp Init
+ 
+(Filenamel: C:/buildslave/unity/build/Greifeacts/StandalonePlayerGenerated/U 56)
+
+ni�ty�Id:1En0
+ g
+iFneeDembu g./cuppd lLvi/ue: 56)
+
+nity�b�il�/a�tiIacts/Sdan:aloneP
+l
+(Filename: C:/buiyldginaDvbe/.upniLtny:/bu)i
+
+Hd/Iartt
+ i
+fFilenams/StandalonePlae/unity/bued/UnityEacns/Standaug.cpp Line: 56)
+
+d/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1021
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1020
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+�p �息I
+ 
+(Fil
+en
+ame: C:/build/buil/unity/build/arild/artiftcandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+56�
+�
+Hp In:t1
+ 0
+(22il
+e
+(me: C:/buildslave/unity/buildy/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Lin
+e
+: 5���
+�
+�Id:1022
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1020
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hp Init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Lin�: 56)
+
+�Id:1020
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hp Init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1020
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hp Init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1020
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hp Init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OnAllPrepared
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OnAllPrepared
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1018
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(���Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnitdEngineD
+eb
+ug.cpp Line: 56)
+
+dsl2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.c Line: 56)
+
+
+
+消息Id:1018
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1018
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+MapNodeClick
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+BuildVect:X=1, Y=10, U=9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Play Idle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Play Idle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1022
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+MapNodeClick
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+BuildVect:X=0, Y=9, U=9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Play Idle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/Stand�lo��P息Id:1024
+ 
+(Filename: C:/buig.cdslave/unity/build/arti
+f
+acts/StandalonePlayerGenerated/�nityEngineDebug
+.c
+pp Line: 56)
+
+buildslave/unity/build/artifacts/StPnlay Idleyer
+Generated/ nityEngineDebug.cpp Line: 56)
+
+build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+MapNodeClick
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+BuildVect:X=-1, Y=9, U=10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Play Idle
+ 
+(Filename: C:�builds��Id:1024
+ 
+(Filename: C:/buildslave/uPnity/build/artifacts/StandalonePlayerGenerated
+/
+UnityEngineDebug.cpp Line: 56)
+
+Play Idle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+MapNodeClick
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+BuildVect:X=-1, Y=0, U=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Play Idle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Play Idle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1022
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+MapNodeClick
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+BuildVect:X=0, Y=1, U=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Play Idle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息I�:1024
+ 
+(Filena
+me
+: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cppDLine: 56)
+
+Play Idle
+ 
+(Fileenuame: C:/buildslav
+eunity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+MapNodeClick
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+BuildVect:X=1, Y=1, U=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+sendCallBack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+32
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Play Idle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1025
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1024
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Play Idle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+消息Id:1025
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+

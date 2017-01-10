@@ -1,0 +1,13 @@
+﻿<tutorial>
+  <!-- 1,编辑装备背包 -->
+  <!-- 后置事件触发 -->
+  <steps>
+    <!-- 每个阶段定义：类型type包括cameraMove, move, speak, useCards, waitMove, waitUseCard, gameOver； 持续时间durationTime为-1时表示无限等待；-->
+    <step type="waitTipSmall" durationTime="60">
+      <heroId>28</heroId>
+      <info>以后会获得更多背包，适合各式各样的英雄！ </info>
+      <audio>Audio/TutorialSound/TutorialSound/tipsmall_tipsmall_56</audio>
+      <lifeTime>60</lifeTime>
+    </step>
+  </steps>
+</tutorial>

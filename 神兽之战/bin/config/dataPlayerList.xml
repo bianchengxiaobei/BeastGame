@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <playerList>
+    <ID_i>0</ID_i>
+    <Name_s>路飞</Name_s>
+    <IconFile_s>BackStab</IconFile_s>
+  </playerList>
+  <playerList>
+    <ID_i>1</ID_i>
+    <Name_s>索罗</Name_s>
+    <IconFile_s>BackStab</IconFile_s>
+  </playerList>
+  <playerList>
+    <ID_i>2</ID_i>
+    <Name_s>山治</Name_s>
+    <IconFile_s>BackStab</IconFile_s>
+  </playerList>
+</root>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <maplist>
+    <ID_i>0</ID_i>
+    <MapType_i>0</MapType_i>
+    <MapFile_s>GameMain</MapFile_s>
+    <MapFilePath_s>Desert_Map02.xml</MapFilePath_s>
+    <LCameraAngle_s>60,-300,1</LCameraAngle_s>
+    <LCameraPos_s>40,10,47.4</LCameraPos_s>
+    <ECameraAngle_s>60,-120,-3.4</ECameraAngle_s>
+    <ECameraPos_s>57,10,57.4</ECameraPos_s>
+    <MapCenterX_f>48.5</MapCenterX_f>
+    <MapCenterY_f>52.5</MapCenterY_f>
+    <MaxX_f>8</MaxX_f>
+    <MaxY_f>8</MaxY_f>
+    <MinCameraScale_f>0.5</MinCameraScale_f>
+    <MouseWheelSensitivity_f>0.2</MouseWheelSensitivity_f>
+  </maplist>
+  <maplist>
+    <ID_i>1</ID_i>
+    <MapType_i>0</MapType_i>
+    <MapFile_s>GameMain</MapFile_s>
+    <MapFilePath_s>Desert_Map02.xml</MapFilePath_s>
+  </maplist>
+</root>

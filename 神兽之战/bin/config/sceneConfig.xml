@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <sceneConfig>
+    <ID_i>0</ID_i>
+    <SceneName_s>11</SceneName_s>
+    <ChapterName_s>22</ChapterName_s>
+    <StoryDSLFile_s>Data/Scene/Scene_1/story.dsl</StoryDSLFile_s>
+    <EnterX_f>0</EnterX_f>
+    <EnterY_f>0</EnterY_f>
+  </sceneConfig>
+</root>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <item texture="Texture/Cursor/selected" hotspot="32,32" />
+  <item texture="Texture/Cursor/pageleft" hotspot="32,32" soft="true" />
+  <item texture="Texture/Cursor/pageright" hotspot="32,32" soft="true" />
+</config>

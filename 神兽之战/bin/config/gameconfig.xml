@@ -1,0 +1,142 @@
+﻿<GameConfig>
+  <!-- 全局配置-->
+  <!--GameSpeed 游戏速度 -->
+  <!-- CameraExt  鼠标移到屏幕边缘是否自动移动摄像机，1 是， 0否-->
+  <!-- CameAutoMoveSpeed 自动移动速度-->
+  <!-- HScale 触发水平自动移动的比例：距离左（右）屏幕边界-->
+  <!-- VScale 触发水平自动移动的比例：距离左（右）屏幕边界-->
+  <Global SequenceShow="true" SeqShowTimeOut="1.0" GameSpeed="1" CameraExt="0" CameAutoMoveSpeed="00.0" HScale="0.05" VScale="0.05" RestrictMove="1" />
+  <!-- 技能相关配置
+         PreStageSeg被动技能的间隔时间，例如绝剑&逆剑
+         ShowStageSeg技能与钱牌跳标间隔时间，例如神佑&圣光
+         StageSeg血量变化以外的所有表现间隔-->
+  <Skill PreStageSeg="0.1" ShowStageSeg="0.1" StatusSeg="0.5" />
+  <!--特效相关配置-->
+  <!-- 特效类型配置为 Stand -->
+  <!--LeagueBaseEffectWhenHeroDead "英雄死亡时League基地特效" -->
+  <!--EmpireBaseEffectWhenHeroDead "英雄死亡时Empire基地特效" -->
+  <!-- LeagueBaseAttackedEffect "LeagureBase被击特效" -->
+  <!-- EmpireBaseAttackedEffect "EmpireBase被击特效" -->
+  <!--LeagueBaseExploreEffect "游戏结束时League基地爆炸特效" -->
+  <!--EmpireBaseExploreEffect "游戏结束时Empire基地特效" -->
+  <!--EmpireBaseLowHpEffect LeagueBaseLowHpEffect 低血量时Expire基地特效-->
+  <!--LeagueBaseLowHpEffect 低血量时Empire基地特效-->
+  <!-- EmpireBaseShieldEfffect 庇护特效 -->
+  <!-- LeagueBaseShieldEfffect 庇护特效 -->
+  <!--BaseLowHp "低血量阈值" -->
+  <Effect LeagueBaseEffectWhenHeroDead="201" EmpireBaseEffectWhenHeroDead="202" LeagueBaseAttackedEffect="203" EmpireBaseAttackedEffect="204" LeagueBaseExploreEffect="205" EmpireBaseExploreEffect="206" BaseLowHp="5" LeagueBaseLowHpEffect="207" EmpireBaseLowHpEffect="208" LeagueBaseHighHpEffect="209" EmpireBaseHighHpEffect="210" EmpireBaseShieldEfffect="211" LeagueBaseShieldEfffect="211" />
+  <!--摄像机跟随相关配置-->
+  <!--FollowHeightOffset "跟随模式下，观察点距离地面高度(也就是当前InRound的英雄脚底垂直向上距离）" -->
+  <!--FollowDist "摄像机距离观察点的距离" -->
+  <camerafollow FollowHeightOffset="0.5" FollowDist="30" FollowCamera="0" />
+  <!--Status特效配置-->
+  <!--Restriction_Effect"禁足"
+		Silence_Effect"沉默"
+		Vertigo_Effect"眩晕"
+		PhysicalImmune_Effect"物理免疫"
+		StatusImmune_Effect"状态免疫"
+		Shelter_Effect"庇护"
+		SlowDown_Effect"缓速"-->
+  <statuseffect Restriction_Effect="0" Silence_Effect="0" PhysicalImmune_Effect="0" Vertigo_Effect="0" StatusImmune_Effect="0" Shelter_Effect="0" SlowDown_Effect="0" />
+  <!--Status特效配置-->
+  <!--
+	MoveStagePassEffect"移动阶段被跳过后的场景特效"
+	MoveStagePassUIEffect"移动阶段被跳过后的UI特效"
+	MoveStagePassUIEffect"行动阶段被跳过后的场景特效"
+	ActionStagePassUIEffect"行动阶段被跳过后的UI特效"
+		-->
+  <stagepasseffect MoveStagePassEffect="0" MoveStagePassUIEffect="0" ActionStagePassEffect="0" ActionStagePassUIEffect="0" />
+  <!--buff特效配置-->
+  <!--Angry_Effect"狂暴"
+		Rage_Effect"暴怒"
+		ColdBlood_Effect"冷血"
+		Shred_Effect"撕裂"
+		Spunk_Effect"血精灵匕首"
+		Stealth_Effect"潜行"
+		ForestRaid_Effect"林影突袭"-->
+  <buffeffect Angry_Effect="0" Rage_Effect="300172" ColdBlood_Effect="10033" Shred_Effect="14013" Spunk_Effect="0" Stealth_Effect="10023" ForestRaid_Effect="23032" />
+  <!-- 游戏结束相关配置
+        GameEndUIShowTime 胜利UI播放时间，这个其实不填也可以
+		GameEndCameraMoveTime 游戏结束后，摄像机移动至失败方基地时间
+		GameEndCameraDist 游戏结束后，摄像机移动至失败方基地时的高度
+		GameEndFailTipTime 失败后显示提示延迟时间（单位秒）
+		BaseExploreTime 基地爆炸时间（是相机移动至基地后，到胜利UI出现之间的间隔
+		BaseDelayHideTime 基地爆炸后消失间隔
+        BaseShowDelay 英雄死亡后基地血条的表现时间
+                ChatBubbleShowTime 聊天气泡持续时间
+                ChatShowTime 聊天框持续时间
+                DlgFlyText GM公告滚屏速度
+        DlgSeting投降开始
+        DlgSurrenderWaitTime投降询问时间
+        DlgSurrenderPlayerInterval投降CD
+	-->
+  <gameend GameEndUIShowTime="1" GameEndCameraMoveTime="1.2" GameEndCameraDist="16" GameEndFailTipTime="0.2" BaseExploreTime="4.5" BaseDelayHideTime="1.8" BaseShowDelay="1.35" ChatBubbleShowTime="4" ChatShowTime="10" DlgLoadingShowTime="2" DlgPveSelectHerosBurnTimeInterval="0" DlgPveSelectBirthTimeInterval="0.65" DlgPveSelectShowCardTimeInterval="0" DlgPveSelectHideCardTimeInterval="0" DlgPveShowHeroIconTimeInterval="0.0" DlgSeting="1" DlgSurrenderWaitTime="50" DlgSurrenderPlayerInterval="1" SoundTimeInterval="5" ExpressionTimeInterval="60" ExpressionShowCount="100" DlgFlyText="200" />
+  <!-- 回合结束相关配置
+        SummaryBlackDepth 变黑程度
+		SummaryBlackDuration 变黑（恢复）时间
+		WarningChgHp 红色遮罩
+		NoticeChgHp UI上红色（DlgMain左下角）
+	-->
+  <summarydark SummaryBlackDepth="0.75" SummaryBlackDuration="1.5" WarningChgHp="1" NoticeChgHp="1" />
+  <!--特殊特效配置
+
+		ForestSkillId 魅惑的技能ID
+		ForestEffect 树林闪避的特效ID
+		WaterEffect 地形水反馈的特效ID
+        ForestEffect 地形树林反馈的特效ID
+        portalEffect 地形传送阵反馈的特效ID
+        camplEffect 地形营地反馈的特效ID
+        swampEffect 地形沼泽反馈的特效ID
+        
+		AddMoneyEffect 加钱的特效ID
+		LoseMoneyEffect 减钱的特效ID
+		TeleportEffect 传送阵卡牌目标提示
+
+	-->
+  <specaileffect ForestSkillId="2301" ForestEffect="219" WaterEffect="101" AddMoneyEffect="113" LoseMoneyEffect="114" AddMoneyFlyEffect="1000099" AddCardFlyEffect="1000097" AddEquipFlyEffect="1000098" TeleportEffect="600081" />
+  <!--查看英雄配置
+		MinRotateAngle 最小角速度
+		MaxRotateAngle 最大角速度
+		DeceRotateAngle 减速角速度
+		MouseBright 英雄鼠标放置上去的亮度
+	-->
+  <heroshow MinRotateAngle="5" MaxRotateAngle="60" DeceRotateAngle="30" MouseBright="1.25" />
+  <!--书本配置
+		MinChargeSpeed 最小充能速度
+		MinChargeCount 最小充能数值
+		ExpBookChargeSpeed 经验书充能速度（单位秒）
+		ExpBookChargeCount 经验书充能增加值
+	-->
+  <book MinChargeSpeed="100" MinChargeCount="1" ExpBookChargeSpeed="0.05" ExpBookChargeCount="1" />
+  <!--PVE进入条件（三个条件符合一个即可）
+		PVEEnterItemID 物品ID
+		PVEEnterItemCount 物品数量
+		PVEEnterMoney 金钱
+		PVEEnterTicket 符石
+	-->
+  <pvecondition PVEEnterItemID="30" PVEEnterItemCount="1" PVEEnterMoney="400" PVEEnterTicket="350" />
+  <!--剧情配置
+		ForceEnterPassId 强制进入剧情界面完成关卡ID设定
+		ForceSaveEquipCount  需要强制保存装备数量（限定3以内）
+	-->
+  <story ForceEnterPassId="4" ForceSaveEquipCount="2" />
+  <!--登陆排队配置
+		quitqueuefactor 放弃排队系数
+                exaggeratefactor 夸张系数
+                changefactor 队列位置变化系数
+                changeinterval 队列位置变化间隔
+	-->
+  <lingup quitqueuefactor="1.4" exaggeratefactor="10" changefactor="0.8" changeinterval="1" />
+  <!--pve刷新buff价格-->
+  <refreshbuff money="50" />
+  <!--宝箱各表现持续时间
+		flybox 飞宝箱
+		showbox 显示宝箱
+		flyitem 飞物品
+		showitemzero 显示物品(0蓝色)
+		showitemone 显示物品(0紫色)
+		showitemtwo 显示物品(0金色)
+	-->
+  <boxdura flybox="1.0" showbox="0.65" flyitem="0.35" showitemzero="0.2" showitemone="0.8" showitemtwo="1.5" />
+</GameConfig>
+

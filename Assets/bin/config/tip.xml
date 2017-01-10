@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- edited with XMLSpy v2011 (http://www.altova.com) by xxg (perfect) -->
+<table>
+  <string id="1" content="升级英雄使其达到4级时，可以解锁第三技能" />
+  <string id="1" content="升级英雄使其达到4级时，可以解锁第三技能" />
+  <string id="1" content="升级英雄使其达到4级时，可以解锁第三技能" />
+  <string id="1" content="玩家每天可以免费领取2个日常任务" />
+  <string id="1" content="玩家每天可以免费领取2个日常任务" />
+  <string id="1" content="玩家每天可以免费领取2个日常任务" />
+  <string id="1" content="玩家每天可以免费领取2个日常任务" />
+  <string id="1" content="玩家每天可以免费领取2个日常任务" />
+  <string id="1" content="断线后，及时重新登陆即可继续游戏" />
+  <string id="1" content="断线后，及时重新登陆即可继续游戏" />
+  <string id="1" content="你通过装备背包带入游戏的装备可以在任意位置购买" />
+  <string id="1" content="你通过装备背包带入游戏的装备可以在任意位置购买" />
+  <string id="1" content="备用时间会在你的每次回合结束时恢复一部分" />
+  <string id="1" content="备用时间会在你的每次回合结束时恢复一部分" />
+  <string id="1" content="备用时间会在你的每次回合结束时恢复一部分" />
+  <string id="1" content="在游戏内输入/r 可以回复最后向你发起密语的玩家" />
+  <string id="1" content="在游戏内输入/r 可以回复最后向你发起密语的玩家" />
+  <string id="1" content="在游戏内输入/r 可以回复最后向你发起密语的玩家" />
+  <string id="1" content="每局游戏第一个击杀敌方的英雄可以额外获得2个金币" />
+  <string id="1" content="每局游戏第一个击杀敌方的英雄可以额外获得2个金币" />
+  <string id="1" content="每局游戏第一个击杀敌方的英雄可以额外获得2个金币" />
+  <string id="1" content="合理的走位会给你带来胜利" />
+  <string id="1" content="欢迎关注龙翼官方微信，搜索微信公众号：龙翼编年史" />
+  <string id="1" content="欢迎关注龙翼官方微信，搜索微信公众号：龙翼编年史" />
+  <string id="1" content="欢迎关注龙翼官方微信，搜索微信公众号：龙翼编年史" />
+  <string id="1" content="欢迎关注龙翼官方微信，搜索微信公众号：龙翼编年史" />
+  <string id="1" content="欢迎关注龙翼官方微信，搜索微信公众号：龙翼编年史" />
+  <string id="1" content="磨练技术并提高胜率，是提升自己战斗力的有效途径" />
+  <string id="1" content="要保持淡定。就算输掉了游戏，你还有人生" />
+  <string id="1" content="官方团队绝对不会以任何形式索要您的密码" />
+  <string id="1" content="你可以移动到有悬浮物的地图格来获取魔晶卡" />
+  <string id="1" content="炼金阵、金矿等悬浮物将会在地形上没有英雄时于回合开始时刷新" />
+  <string id="1" content="栖风之阵能让你走的更远" />
+  <string id="1" content="魔晶炮台能让你用一些金钱来造成额外的伤害" />
+  <string id="1" content="花一些小钱，就能在村庄地形上回复生命值" />
+  <string id="1" content="魔力转换药剂是草莓味的" />
+  <string id="1" content="在树林地形中的英雄有几率闪避物理攻击" />
+  <string id="1" content="在水上不能进行物理攻击" />
+  <string id="1" content="在商店周围可以购买装备" />
+  <string id="1" content="恶魔祭坛能为你提供强大的药剂，但使用时有一些代价" />
+  <string id="1" content="走到炼金阵上能获得魔晶卡" />
+  <string id="1" content="金矿会为你提供矿石，能用来换取金币" />
+  <string id="1" content="支付一定的金币，就能用传送阵在战场上快速移动" />
+  <string id="1" content="强心药剂能与镇定剂一起使用" />
+  <string id="1" content="神圣伤害能无视目标的庇护状态，直接造成伤害" />
+  <string id="1" content="你可以点开战斗记录来查看到底发生了什么" />
+  <string id="1" content="一名英雄回合结束时，该英雄所有被损坏的装备会变回完好" />
+  <string id="1" content="一名英雄回合结束时，该英雄所有被损坏的装备会变回完好" />
+  <string id="1" content="一名英雄回合结束时，该英雄所有被损坏的装备会变回完好" />
+  <string id="1" content="一名英雄回合开始时，除了可以获得1张魔晶卡，还能获得2枚金币" />
+  <string id="1" content="一名英雄回合开始时，除了可以获得1张魔晶卡，还能获得2枚金币" />
+  <string id="1" content="一名英雄回合开始时，除了可以获得1张魔晶卡，还能获得2枚金币" />
+  <string id="1" content="自由模式中，玩家只能加入有好友所在的房间" />
+  <string id="1" content="自由模式中，玩家只能加入有好友所在的房间" />
+  <string id="1" content="自由模式中，玩家只能加入有好友所在的房间" />
+  <string id="1" content="选择英雄时，可以修改已经确定的英雄的技能选择，和背包选择" />
+  <string id="1" content="选择英雄时，可以修改已经确定的英雄的技能选择，和背包选择" />
+  <string id="1" content="选择英雄时，可以修改已经确定的英雄的技能选择，和背包选择" />
+  <string id="1" content="单挑模式选择英雄时，可以点击左侧的英雄头像，对不同英雄进行操作" />
+  <string id="1" content="单挑模式选择英雄时，可以点击左侧的英雄头像，对不同英雄进行操作" />
+  <string id="1" content="单挑模式选择英雄时，可以点击左侧的英雄头像，对不同英雄进行操作" />
+  <string id="1" content="在书本个人信息页面，点击左上角的玩家头像，可以更换头像" />
+  <string id="1" content="在书本个人信息页面，点击左上角的玩家头像，可以更换头像" />
+  <string id="1" content="在书本个人信息页面，点击左上角的玩家头像，可以更换头像" />
+  <string id="1" content="孤狼与世界树副本中，给予玩家的BUFF的好坏，与玩家该关剩余的基地耐久度有关" />
+  <string id="1" content="孤狼与世界树副本中，给予玩家的BUFF的好坏，与玩家该关剩余的基地耐久度有关" />
+  <string id="1" content="孤狼与世界树副本中，给予玩家的BUFF的好坏，与玩家该关剩余的基地耐久度有关" />
+  <string id="1" content="合作模式下，只有所有队友都不反对时，才能成功投降" />
+  <string id="1" content="合作模式下，只有所有队友都不反对时，才能成功投降" />
+  <string id="1" content="只有使用了至少5盘的英雄，才会显示在胜率最高英雄中" />
+  <string id="1" content="只有使用了至少5盘的英雄，才会显示在胜率最高英雄中" />
+  <string id="1" content="自由模式中，玩家可以手动选择想进行的地图" />
+  <string id="1" content="游戏过程中，同一个状态效果往往不能叠加" />
+  <string id="1" content="游戏过程中，可以使用的卡牌会有高亮效果" />
+  <string id="1" content="游戏过程中，可以使用的卡牌会有高亮效果" />
+  <string id="1" content="右上角的游戏设置中可以改变分辨率和音量" />
+  <string id="1" content="右上角的游戏设置中可以改变分辨率和音量" />
+  <string id="1" content="随机选择的英雄在游戏开始时会额外拥有2枚金币" />
+  <string id="1" content="随机选择的英雄在游戏开始时会额外拥有2枚金币" />
+  <string id="1" content="随机选择的英雄在游戏开始时会额外拥有2枚金币" />
+  <string id="1" content="在tab界面中，玩家通过鼠标悬浮的方式可以查看状态、技能、装备的效果" />
+  <string id="1" content="在tab界面中，玩家通过鼠标悬浮的方式可以查看状态、技能、装备的效果" />
+  <string id="1" content="在tab界面中，玩家通过鼠标悬浮的方式可以查看状态、技能、装备的效果" />
+  <string id="1" content="在游戏过程时，点击左键不放移动鼠标可以平移视角。" />
+  <string id="1" content="在游戏过程时，点击左键不放移动鼠标可以平移视角。" />
+  <string id="1" content="在游戏过程时，点击左键不放移动鼠标可以平移视角。" />
+  <string id="1" content="在游戏过程时，点击左键不放移动鼠标可以平移视角。" />
+  <string id="1" content="在游戏过程时，点击左键不放移动鼠标可以平移视角。" />
+  <string id="1" content="在游戏过程时，点击左键不放移动鼠标可以平移视角。" />
+  <string id="1" content="在游戏过程时，点击左键不放移动鼠标可以平移视角。" />
+  <string id="1" content="在游戏过程时，点击左键不放移动鼠标可以平移视角。" />
+  <string id="1" content="在游戏过程时，点击右键不放移动鼠标，可以旋转视角。" />
+  <string id="1" content="在游戏过程时，点击右键不放移动鼠标，可以旋转视角。" />
+  <string id="1" content="在游戏过程时，点击右键不放移动鼠标，可以旋转视角。" />
+  <string id="1" content="在游戏过程时，点击右键不放移动鼠标，可以旋转视角。" />
+  <string id="1" content="在游戏过程时，点击右键不放移动鼠标，可以旋转视角。" />
+  <string id="1" content="在游戏过程时，点击右键不放移动鼠标，可以旋转视角。" />
+  <string id="1" content="在游戏过程时，点击右键不放移动鼠标，可以旋转视角。" />
+  <string id="1" content="在游戏过程时，点击右键不放移动鼠标，可以旋转视角。" />
+  <string id="1" content="随机选择的英雄在游戏开始时会额外拥有2枚金币" />
+  <string id="1" content="平均来说，一局战斗后获得的奖励会随着时间而增长~" />
+  <string id="1" content="暂时用不上的英雄经验书，可以通过道具栏的炼金阵转化称通用经验书哦~" />
+  <string id="1" content="暂时用不上的英雄经验书，可以通过道具栏的炼金阵转化称通用经验书哦~" />
+  <string id="1" content="暂时用不上的英雄经验书，可以通过道具栏的炼金阵转化称通用经验书哦~" />
+  <string id="1" content="试炼之塔爬得越高，可以获得的奖励越丰富。" />
+  <string id="1" content="试炼之塔爬得越高，可以获得的奖励越丰富。" />
+</table>

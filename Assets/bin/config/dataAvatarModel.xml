@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <AvatarModel>
+    <ID_s>0</ID_s>
+    <PrefabPath_s>Data/Model/HeroModel/base_hero</PrefabPath_s>
+    <Scale_f>1</Scale_f>
+    <Vocation_s>0</Vocation_s>
+  </AvatarModel>
+  <AvatarModel>
+    <ID_s>1</ID_s>
+    <PrefabPath_s>Data/Model/HeroModel/base_hero</PrefabPath_s>
+    <Scale_f>1</Scale_f>
+    <Vocation_s>0</Vocation_s>
+  </AvatarModel>
+  <AvatarModel>
+    <ID_s>2</ID_s>
+    <PrefabPath_s>Data/Model/HeroModel/base_hero</PrefabPath_s>
+    <Scale_f>1</Scale_f>
+    <Vocation_s>0</Vocation_s>
+  </AvatarModel>
+  <AvatarModel>
+    <ID_s>3</ID_s>
+    <PrefabPath_s>Data/Model/HeroModel/base_hero</PrefabPath_s>
+    <Scale_f>1</Scale_f>
+    <Vocation_s>0</Vocation_s>
+  </AvatarModel>
+</root>

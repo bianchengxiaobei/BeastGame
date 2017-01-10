@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element id="rememberaccount" value="1" />
+  <element id="userid" value="443850741@qq.com" />
+  <element id="servername" value="电信一区" />
+  <element id="displaymode" value="1" />
+  <element id="resolution" value="800,600" />
+  <element id="mutesound" value="0" />
+  <element id="bgsoundvalue" value="1" />
+  <element id="uisoundvalue" value="1" />
+  <element id="soundvalue" value="1" />
+  <element id="herovoicevalue" value="1.00" />
+  <element id="qualitysetting" value="1" />
+  <element id="roomname" value="" />
+  <element id="roompassword" value="" />
+  <element id="roomcontrolmode" value="3" />
+  <element id="roommapid" value="0" />
+  <element id="roomheroselectmode" value="0" />
+  <element id="roomactionmode" value="0" />
+  <element id="followrole" value="0" />
+  <element id="opencombatlog" value="1" />
+  <element id="notopenresignprompt" value="0" />
+</root>

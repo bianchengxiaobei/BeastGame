@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <SuitList>
+    <ID_i>0</ID_i>
+    <Name_s>皮肤盖伦</Name_s>
+    <PicName_s>applibot</PicName_s>
+  </SuitList>
+  <SuitList>
+    <ID_i>1</ID_i>
+    <Name_s>皮肤寒冰</Name_s>
+    <PicName_s>awakened</PicName_s>
+  </SuitList>
+  <SuitList>
+    <ID_i>2</ID_i>
+    <Name_s>皮肤瑞兹</Name_s>
+    <PicName_s>berserk</PicName_s>
+  </SuitList>
+  <SuitList>
+    <ID_i>3</ID_i>
+    <Name_s>皮肤亚索</Name_s>
+    <PicName_s>forrestimel</PicName_s>
+  </SuitList>
+  <SuitList>
+    <ID_i>4</ID_i>
+    <Name_s>皮肤妖姬</Name_s>
+    <PicName_s>oner</PicName_s>
+  </SuitList>
+  <SuitList>
+    <ID_i>5</ID_i>
+    <Name_s>皮肤德莱文</Name_s>
+    <PicName_s>warden</PicName_s>
+  </SuitList>
+</root>

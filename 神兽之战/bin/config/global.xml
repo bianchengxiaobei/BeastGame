@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--  客户端服务器公用全局配置表  -->
+<globalconfig>
+  <setting name="PvpInviteeLevelLimit" value="10" comment="能被邀请加入对战的最低等级" />
+  <setting name="PvpInviterLevelLimit" value="15" comment="能邀请别人加入对战的最低等级" />
+  <setting name="PvpInviteeHeroLimit" value="2" comment="能被邀请加入对战的最少英雄数" />
+  <setting name="PvpInviterHeroLimit" value="2" comment="能邀请别人加入对战的最少英雄数" />
+  <setting name="VipDailyPointLimit" value="100" comment="爵位每日最高成长点" />
+  <setting name="VipDurationDays" value="30" comment="爵位续期时间（单位：天）" />
+  <setting name="VipMaxDurationDays" value="60" comment="爵位最大续期时间（单位：天）" />
+  <setting name="ReSignInCost" value="20" comment="签到补签花费（单位：符石）" />
+  <setting name="serverinterval" value="10" comment="服务器通知间隔（单位：秒）" />
+  <setting name="VipTestOpen" value="0" comment="5月底测试版本默认开启Vip" />
+  <setting name="SmeltPercentNormal" value="30" comment="普通熔炼转化百分率" />
+  <setting name="GeneralExpBookItemID" value="2009" comment="通用经验书的ItemID" />
+  <setting name="BuyDailyQuestCostList" value="15;15;25;25;35;35;50;50;65;65;80;80;100;100;100" comment="新增日常任务的价格序列（单位：符石）" />
+  <setting name="FinishDailyQuestCost" value="20" comment="日常任务一键领奖的价格（单位：符石）" />
+  <setting name="PunishPeriod" value="300" comment="在选英雄界面离开游戏的惩罚时间（单位：秒）" />
+</globalconfig>

@@ -1,0 +1,154 @@
+﻿2017-01-05 09:27:10,5118 [Debug] [ClientMain] ClientMain.Awake()
+2017-01-05 09:27:10,5808 [Debug] [ClientMain] ClientMain.Awake()结束
+2017-01-05 09:27:10,6068 [Debug] [UnityGameEntry] UnityGameEntry.Start()
+2017-01-05 09:27:10,6098 [Debug] [UIManagerBase] UIManager Init Success!
+2017-01-05 09:27:10,6168 [Debug] [XLog] UIManager Init Success!
+2017-01-05 09:27:10,6188 [Debug] [ClientMain] ClientMain.Start()
+2017-01-05 09:27:12,4809 [Error] [WindowsPluginToolImpl] Lybns was not run from Launcher
+2017-01-05 09:27:12,4819 [Error] [WindowsPluginToolImpl] could not find Launcher
+2017-01-05 09:27:12,4839 [Debug] [WindowsPluginToolImpl] {E5520BF8-2230-4a81-A0F3-724391E3653D}:False
+2017-01-05 09:27:12,4939 [Debug] [GameClient.Platform.PluginToolWrapper] PluginTool.Singleton.PopEvent:ePluginEventType_Install_Success
+2017-01-05 09:27:12,4949 [Debug] [ClientMain] ClientMain.PreInit()
+2017-01-05 09:27:12,5959 [Debug] [Client.UI.DlgBeginAnimation] DlgBeginAnimation.Init()
+2017-01-05 09:27:14,2080 [Debug] [ClientState_Update] ClientState_Update.OnEnter()
+2017-01-05 09:27:14,3820 [Debug] [ConfigCS]   DeviceModel   Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz (2455 MB)
+ deviceName   PC-20140312HKEG
+ deviceType   Desktop
+ graphicsDeviceName   Intel(R) HD Graphics Family
+  graphicsDeviceVersion   Direct3D 11.0 [level 11.0]
+  graphicsMemorySize   192
+  graphicsPixelFillrate   4800
+  graphicsShaderLevel   50
+  maxTextureSize   16384
+  npotSupport   Full
+  operatingSystem   Windows 7 Service Pack 1 (6.1.7601)
+  processorCount   4
+  processorType   Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz
+  supports3DTextures   True
+  supportsImageEffects   True
+  supportsRenderTextures   True
+  systemMemorySize   2455
+2017-01-05 09:27:14,3980 [Debug] [NetworkManager] Init()
+2017-01-05 09:27:14,4160 [Debug] [NetworkManager] Net Init Success
+2017-01-05 09:27:18,0312 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:27:18,0322 [Debug] [InputManager] Onclick
+2017-01-05 09:27:23,0425 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:27:23,0425 [Debug] [InputManager] Onclick
+2017-01-05 09:27:23,0465 [Debug] [XLog] strUserId: 443850741@qq.com
+2017-01-05 09:27:23,0465 [Debug] [UIManagerBase] true == m_dicDlgs.ContainsKey(dlg.fileName): DlgLogin
+2017-01-05 09:27:23,0475 [Debug] [NetworkManager] ConnectToURL:http://127.0.0.1/BeastGame/ServerUrl.html
+2017-01-05 09:27:24,0775 [Info] [NetworkManager] ConnectToServer:127.0.0.1:8000
+2017-01-05 09:27:24,7586 [Debug] [NetworkManager] Connecting......
+2017-01-05 09:27:24,7916 [Debug] [XLog] Connect Success!
+2017-01-05 09:27:31,7500 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:27:31,7500 [Debug] [InputManager] Onclick
+2017-01-05 09:27:33,9481 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:27:33,9481 [Debug] [InputManager] Onclick
+2017-01-05 09:27:38,4453 [Debug] [CPtcCNtf_EnterLobby] 收到进入游戏大厅消息！
+2017-01-05 09:30:17,2714 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:30:17,3524 [Debug] [InputManager] Onclick
+2017-01-05 09:30:18,1035 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:30:18,1035 [Debug] [InputManager] Onclick
+2017-01-05 09:30:18,5565 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:30:18,5565 [Debug] [InputManager] Onclick
+2017-01-05 09:30:19,2535 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:30:19,2535 [Debug] [InputManager] Onclick
+2017-01-05 09:30:19,2545 [Debug] [XLog] ------CPtcC2MReq_AutoMatch-------
+2017-01-05 09:30:20,2236 [Debug] [Game.CptcCNtf_EnterRoom] CptcCNtf_EnterRoomGAME_TYPE_MATCH
+2017-01-05 09:30:20,2316 [Debug] [XLog] Enter ClientState_InRoom
+2017-01-05 09:30:20,2736 [Debug] [DlgRoom] ShowRandomBeast
+2017-01-05 09:30:21,3687 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:30:21,3687 [Debug] [InputManager] Onclick
+2017-01-05 09:30:21,3727 [Debug] [NetworkManager] SendTrySelectBeast:BeastId=97227876270082,BeastTypeId=0
+2017-01-05 09:30:21,4187 [Debug] [XLog] CptcM2CNtf_TrySelectBeast
+2017-01-05 09:30:21,4187 [Debug] [XLog] TrySelect_BeastId:97227876270082
+2017-01-05 09:30:21,4187 [Debug] [XLog] TrySelect_BeastypeTId:0
+2017-01-05 09:30:22,2667 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:30:22,2667 [Debug] [InputManager] Onclick
+2017-01-05 09:30:22,3177 [Debug] [XLog] ConfirmSelectBeast:97227876270082
+2017-01-05 09:30:22,8518 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:30:22,8518 [Debug] [InputManager] Onclick
+2017-01-05 09:30:22,8538 [Debug] [NetworkManager] SendTrySelectBeast:BeastId=97227876532229,BeastTypeId=1
+2017-01-05 09:30:22,8858 [Debug] [XLog] CptcM2CNtf_TrySelectBeast
+2017-01-05 09:30:22,8858 [Debug] [XLog] TrySelect_BeastId:97227876532229
+2017-01-05 09:30:22,8858 [Debug] [XLog] TrySelect_BeastypeTId:1
+2017-01-05 09:30:23,4648 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:30:23,4648 [Debug] [InputManager] Onclick
+2017-01-05 09:30:23,5178 [Debug] [XLog] ConfirmSelectBeast:97227876532229
+2017-01-05 09:30:24,0998 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:30:24,0998 [Debug] [InputManager] Onclick
+2017-01-05 09:30:24,1018 [Debug] [NetworkManager] SendTrySelectBeast:BeastId=97227876532232,BeastTypeId=2
+2017-01-05 09:30:24,1318 [Debug] [XLog] CptcM2CNtf_TrySelectBeast
+2017-01-05 09:30:24,1318 [Debug] [XLog] TrySelect_BeastId:97227876532232
+2017-01-05 09:30:24,1318 [Debug] [XLog] TrySelect_BeastypeTId:2
+2017-01-05 09:30:24,8159 [Debug] [UnityGameEntry] Onclick
+2017-01-05 09:30:24,8159 [Debug] [InputManager] Onclick
+2017-01-05 09:30:24,8489 [Debug] [XLog] ConfirmSelectBeast:97227876532232
+2017-01-05 09:30:25,9969 [Debug] [XLog] CptcM2CNtf_TrySelectBeast
+2017-01-05 09:30:25,9969 [Debug] [XLog] TrySelect_BeastId:97227886362646
+2017-01-05 09:30:25,9969 [Debug] [XLog] TrySelect_BeastypeTId:3
+2017-01-05 09:30:26,8120 [Debug] [XLog] ConfirmSelectBeast:97227886362646
+2017-01-05 09:30:27,4120 [Debug] [XLog] CptcM2CNtf_TrySelectBeast
+2017-01-05 09:30:27,4120 [Debug] [XLog] TrySelect_BeastId:97227886362649
+2017-01-05 09:30:27,4120 [Debug] [XLog] TrySelect_BeastypeTId:4
+2017-01-05 09:30:28,0961 [Debug] [XLog] ConfirmSelectBeast:97227886362649
+2017-01-05 09:30:28,7111 [Debug] [XLog] CptcM2CNtf_TrySelectBeast
+2017-01-05 09:30:28,7111 [Debug] [XLog] TrySelect_BeastId:97227886362652
+2017-01-05 09:30:28,7111 [Debug] [XLog] TrySelect_BeastypeTId:5
+2017-01-05 09:30:29,8612 [Debug] [XLog] ConfirmSelectBeast:97227886362652
+2017-01-05 09:30:36,2215 [Debug] [CPtcCNtf_EnterScene] CptcCNtf_EnterScene
+2017-01-05 09:30:36,3275 [Debug] [Game.CSceneMgr] CreateScene:0
+2017-01-05 09:30:36,6005 [Debug] [Game.CSceneMgr] EnterScene:GameMain
+2017-01-05 09:30:36,7385 [Debug] [AvatarTool] StoneKing(Clone)CombineModel takes : 5.310059 ms
+2017-01-05 09:30:36,7485 [Debug] [AvatarTool] StoneKing(Clone)CombineModel takes : 4.989624 ms
+2017-01-05 09:30:36,7565 [Debug] [AvatarTool] StoneKing(Clone)CombineModel takes : 5.523682 ms
+2017-01-05 09:30:36,7675 [Debug] [AvatarTool] StoneKing(Clone)CombineModel takes : 8.117676 ms
+2017-01-05 09:30:36,7735 [Debug] [AvatarTool] StoneKing(Clone)CombineModel takes : 3.677368 ms
+2017-01-05 09:30:36,7826 [Debug] [AvatarTool] StoneKing(Clone)CombineModel takes : 5.706787 ms
+2017-01-05 09:30:38,4456 [Debug] [XLog] CPtcG2CNtf_StartGame
+2017-01-05 09:30:38,4486 [Debug] [XLog] CptcG2CNtf_SelectBornPos:BeastId:97227876270082
+2017-01-05 09:30:39,6517 [Debug] [NetworkManager] SendEnterMainScene
+2017-01-05 09:30:47,3942 [Debug] [UnityGameEntry] Onclick
+tarTool] StoneKing(Clone)CombineModel takes : 4.859924 ms
+2016-12-19 21:10:32,0834 [Debug] [XLog] CPtcG2CNtf_StartGame
+2016-12-19 21:10:32,0884 [Debug] [XLog] CptcG2CNtf_SelectBornPos:BeastId:97134379728917
+2016-12-19 21:10:34,2825 [Debug] [NetworkManager] SendEnterMainScene
+2016-12-19 21:10:43,3091 [Debug] [XLog] Trans to: Row=1 Col=-1
+2016-12-19 21:10:43,3151 [Debug] [XLog] CPtcG2CNtf_AddRoleToScene: 1 -1
+2016-12-19 21:10:43,9061 [Debug] [XLog] Trans to: Row=1 Col=0
+2016-12-19 21:10:43,9071 [Debug] [XLog] CPtcG2CNtf_AddRoleToScene: 1 0
+2016-12-19 21:10:44,3551 [Debug] [XLog] Trans to: Row=0 Col=1
+2016-12-19 21:10:44,3561 [Debug] [XLog] CPtcG2CNtf_AddRoleToScene: 0 1
+2016-12-19 21:10:46,1022 [Debug] [UnityGameEntry] Onclick
+2016-12-19 21:10:46,1022 [Debug] [InputManager] Onclick
+2016-12-19 21:10:46,1022 [Debug] [InputManager] Raycast:hit=:Reborn_League(Clone)
+2016-12-19 21:10:46,1052 [Debug] [NetworkManager] SendInitPos: unBeastId=97134379728917
+2016-12-19 21:10:46,1362 [Debug] [XLog] Trans to: Row=9 Col=1
+2016-12-19 21:10:46,1422 [Debug] [XLog] CPtcG2CNtf_AddRoleToScene: 9 1
+2016-12-19 21:10:46,1422 [Debug] [XLog] CptcG2CNtf_SelectBornPos:BeastId:97134379728920
+2016-12-19 21:10:46,7352 [Debug] [UnityGameEntry] Onclick
+2016-12-19 21:10:46,7352 [Debug] [InputManager] Onclick
+2016-12-19 21:10:46,7352 [Debug] [InputManager] Raycast:hit=:Reborn_League(Clone)
+2016-12-19 21:10:46,7373 [Debug] [NetworkManager] SendInitPos: unBeastId=97134379728920
+2016-12-19 21:10:46,7693 [Debug] [XLog] Trans to: Row=9 Col=0
+2016-12-19 21:10:46,7703 [Debug] [XLog] CPtcG2CNtf_AddRoleToScene: 9 0
+2016-12-19 21:10:46,7713 [Debug] [XLog] CptcG2CNtf_SelectBornPos:BeastId:97134379728923
+2016-12-19 21:10:47,4183 [Debug] [UnityGameEntry] Onclick
+2016-12-19 21:10:47,4183 [Debug] [InputManager] Onclick
+2016-12-19 21:10:47,4183 [Debug] [InputManager] Raycast:hit=:Reborn_League(Clone)
+2016-12-19 21:10:47,4203 [Debug] [NetworkManager] SendInitPos: unBeastId=97134379728923
+2016-12-19 21:10:47,4523 [Debug] [XLog] Trans to: Row=10 Col=-1
+2016-12-19 21:10:47,4533 [Debug] [XLog] CPtcG2CNtf_AddRoleToScene: 10 -1
+2016-12-19 21:10:47,4543 [Debug] [XLog] CPtcM2CNtf_StartBeastRound
+2016-12-19 21:10:56,6438 [Debug] [XLog] CptcM2CNtf_EnterStage
+:55:47,5348 [Debug] [XLog] CPtcM2CNtf_StartBeastRound
+2016-12-19 20:55:58,6385 [Debug] [XLog] CptcM2CNtf_EnterStage
+27,3787 [Debug] [UnityGameEntry] Onclick
+2016-11-29 15:00:27,3787 [Debug] [InputManager] Onclick
+2016-11-29 15:00:27,5257 [Debug] [UnityGameEntry] Onclick
+2016-11-29 15:00:27,5257 [Debug] [InputManager] Onclick
+2016-11-29 15:00:27,6617 [Debug] [UnityGameEntry] Onclick
+2016-11-29 15:00:27,6617 [Debug] [InputManager] Onclick
+2016-11-29 15:00:27,8097 [Debug] [UnityGameEntry] Onclick
+2016-11-29 15:00:27,8097 [Debug] [InputManager] Onclick
+2016-11-29 15:00:27,9777 [Debug] [UnityGameEntry] Onclick
